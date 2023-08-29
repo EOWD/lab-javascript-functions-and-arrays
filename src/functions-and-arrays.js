@@ -116,6 +116,8 @@ function avg(mixArr) {
     return null;
   }
 }
+// ternary operation (condition ? if true / if false) auto returns 
+//const avg = mixArr => mixArr.length > 0 ? sum(mixArr) / mixArr.length: null;
 
 // Iteration #5: Unique arrays
 const wordsUnique = [
